@@ -1,0 +1,37 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap'); */
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,400;0,500;0,600;0,700;1,700&family=BenchNine:wght@400;700&family=Inter:wght@200;400&family=PT+Sans+Narrow:wght@700&family=ZCOOL+KuaiLe&display=swap");
+/* @import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow&display=swap'); */
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  /* min-width: 100%; */
+  /* overflow-x: hidden; */
+  /* scroll-behavior: smooth; */
+}
+
+* {
+  box-sizing: border-box;
+  /* font-family: 'Archivo Narrow', sans-serif; */
+  /* font-family: Goldman, serif; */
+}
+
+/* div, button {
+  font-family: Goldman, serif;
+} */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

@@ -1,0 +1,520 @@
+import UserAvatar from "../images/avatar/3ca46bfcfa43ef92f2875eaaa3199af6.jpeg";
+
+export const userRows = [
+  {
+    id: 1,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 2,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 3,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 4,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 5,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 6,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 7,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 8,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 9,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 10,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 11,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 12,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 13,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 14,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 15,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 16,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 17,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 18,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 19,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+  {
+    id: 20,
+    username: "Earth_roll",
+    avatar: UserAvatar,
+    email: "earthroll@gmail.com",
+    status: "active",
+    transaction: "$100.00",
+  },
+];
+
+export const productRows = [
+  {
+    id: 1,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 2,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 3,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 4,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 5,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 6,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 7,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 8,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 9,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 10,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 11,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 12,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 13,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 14,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 15,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 16,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 17,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 18,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 19,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+  {
+    id: 20,
+    name: "Earth_roll",
+    img: UserAvatar,
+    stock: 123,
+    status: "active",
+    price: "$100.00",
+  },
+];
+
+export const productData = [
+  {
+    name: "Nov 20",
+    "Sales": 1000,
+  },
+  {
+    name: "Dec 20",
+    "Sales": 2000,
+  },
+  {
+    name: "Jan 21",
+    "Sales": 3000,
+  }
+];
+
+export const dataMainChartHomePage = [
+  {
+    month: "Nov 20",
+    "AWS": 2000,
+    "GCP": 1500,
+    "AZURE": 900,
+    "HUAWEI": 400,
+  },
+  {
+    month: "Dec 20",
+    "AWS": 2100,
+    "GCP": 1700,
+    "AZURE": 800,
+    "HUAWEI": 600,
+  },
+  {
+    month: "Jan 21",
+    "AWS": 1900,
+    "GCP": 1900,
+    "AZURE": 900,
+    "HUAWEI": 400,
+  },
+  {
+    month: "Feb 21",
+    "AWS": 2400,
+    "GCP": 1800,
+    "AZURE": 900,
+    "HUAWEI": 400,
+  },
+  {
+    month: "Mar 21",
+    "AWS": 2500,
+    "GCP": 2000,
+    "AZURE": 1000,
+    "HUAWEI": 400,
+  },
+  {
+    month: "Arp 21",
+    "AWS": 2600,
+    "GCP": 2100,
+    "AZURE": 1100,
+    "HUAWEI": 600,
+  },
+  {
+    month: "May 21",
+    "AWS": 2700,
+    "GCP": 2000,
+    "AZURE": 1200,
+    "HUAWEI": 700,
+  },
+  {
+    month: "Jun 21",
+    "AWS": 2550,
+    "GCP": 2300,
+    "AZURE": 1200,
+    "HUAWEI": 700,
+  },
+  {
+    month: "Jul 21",
+    "AWS": 2600,
+    "GCP": 2100,
+    "AZURE": 1100,
+    "HUAWEI": 600,
+  },
+  {
+    month: "Aug 21",
+    "AWS": 2700,
+    "GCP": 2000,
+    "AZURE": 1200,
+    "HUAWEI": 700,
+  },
+  {
+    month: "Sep 21",
+    "AWS": 2600,
+    "GCP": 2100,
+    "AZURE": 1100,
+    "HUAWEI": 600,
+  },
+  {
+    month: "Oct 21",
+    "AWS": 2650,
+    "GCP": 1300,
+    "AZURE": 1200,
+    "HUAWEI": 700,
+  },
+];
+
+export const dataPieChartHomePage = [
+  { brand: "AWS", percentage: 24 },
+  { brand: "GCP", percentage: 22 },
+  { brand: "AZURE", percentage: 18 },
+  { brand: "HUAWEI", percentage: 14 },
+];
+
+export const dataMainChartDashboardPage = [
+  {
+    month: "Nov 20",
+    Costs: 2000,
+  },
+  {
+    month: "Dec 20",
+    Costs: 2100,
+  },
+  {
+    month: "Jan 21",
+    Costs: 1900,
+  },
+  {
+    month: "Feb 21",
+    Costs: 2400,
+  },
+  {
+    month: "Mar 21",
+    Costs: 2500,
+  },
+  {
+    month: "Arp 21",
+    Costs: 2600,
+  },
+  {
+    month: "May 21",
+    Costs: 2700,
+  },
+  {
+    month: "Jun 21",
+    Costs: 2550,
+  },
+  {
+    month: "Jul 21",
+    Costs: 2600,
+  },
+  {
+    month: "Aug 21",
+    Costs: 2700,
+  },
+  {
+    month: "Sep 21",
+    Costs: 2600,
+  },
+  {
+    month: "Oct 21",
+    Costs: 2650,
+  },
+];
+
+export const dataTopFiveServices = [
+  {
+    name: "EC2",
+    total: 2000,
+  },
+  {
+    name: "Cloudwatch",
+    total: 2100,
+  },
+  {
+    name: "S3",
+    total: 1900,
+  },
+  {
+    name: "ECS",
+    total: 2400,
+  },
+  {
+    name: "EKS",
+    total: 2500,
+  },
+];
+
+export const dataLegendTopFiveServices = ["EC2", "Cloudwatch", "S3", "ECS", "EKS"]
+
+export const forecastedDashboardData  = [
+  {
+    month: 'Nov 21',
+    Costs: 450.85,
+    Forecast: 189.92
+  }
+];
